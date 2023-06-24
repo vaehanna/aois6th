@@ -1,3 +1,5 @@
+#Лабораторная работа N6, тема физика, Целиков Фёдор группа 121702
+
 class HeshTable:
     _hesh_table = []
     _dict_of_values = {
